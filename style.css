@@ -1,0 +1,76 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+header {
+    background-color: #1e90ff;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 28px;
+}
+
+header p, header a {
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #1e90ff;
+    margin-bottom: 15px;
+}
+
+.imagine {
+    width: 300px;
+    margin: 10px;
+    border-radius: 15px;   /* margini rotunjite */
+    opacity: 0.85;        /* opacitate */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+table, th, td {
+    border: 1px solid #999;
+}
+
+th {
+    background-color: #1e90ff;
+    color: white;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+#monitorizare {
+    background-color: #eef6ff;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #1e90ff;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
